@@ -1,6 +1,6 @@
-FCC StormSurge RealAsset 0x Python Relayer DEX 
+Fork of PyDEX: Python 0x Relayer
 
-PyDEX: Python 0x Relayer
+FCC StormSurge RealAsset 0x Python Relayer DEX
 ========================
 Introduction
 ------------
